@@ -10,4 +10,8 @@ public class StudentModel {
         this.nombre = nombre;
         this.apellido = apellido;
     }
+
+    public String getNombreCompleto() {
+        return nombre + " " + apellido;
+    }
 }
