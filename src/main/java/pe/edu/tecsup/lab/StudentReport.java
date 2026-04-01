@@ -1,9 +1,4 @@
-package pe.edu.tecsup.lab;
-
-public class StudentReport {
-
-    public void generateReport() {
-        System.out.println("=== REPORTE DE ESTUDIANTES ===");
-        System.out.println("Reporte generado correctamente en sprint-1");
-    }
+public void generateReport() {
+    System.out.println("=== REPORTE SPRINT 2 ===");
+    System.out.println("Reporte actualizado correctamente");
 }
